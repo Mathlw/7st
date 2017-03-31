@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-thank you for delicious food
-=======
-its time to go add branch and movement of head
->>>>>>> master
+Hello You can Do it
